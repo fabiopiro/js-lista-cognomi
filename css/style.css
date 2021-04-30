@@ -1,0 +1,12 @@
+body {
+    font-weight: 700;
+}
+
+h1 {
+    text-align: center;
+}
+
+#lista_cognomi li {
+    padding: 30px;
+}
+
